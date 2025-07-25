@@ -10,7 +10,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 - [Excel Model](Maji_Hydro_CBA_Analysis.xlsx)
 - [Summary Report (PDF)](Maji_Hydro_CBA_SummaryReport.pdf)
 **Cost-Benefit Analysis of a 45 MW run-of-the-river hydropower project**
-- Tool: Excel (fully-linked model)
+- Tool: Excel (fully-linked template)
 - Focus: Project finance, economic appraisal, scenario analysis
 
 ### 2. Public Transport Expansion Project Delay Analysis (R)

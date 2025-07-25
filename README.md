@@ -6,22 +6,22 @@ Welcome! This repository showcases select projects across applied economics, dat
 
 ## 📁 Projects
 
-### 1. [Maji Hydro CBA (Excel)](./maji-hydro-cba-excel/README.md)
+### 1. Maji Hydro CBA (Excel)
 - [Excel Model](Maji_Hydro_CBA_Analysis.xlsx)
 - [Summary Report (PDF)](Maji_Hydro_CBA_SummaryReport.pdf)
 **Cost-Benefit Analysis of a 45 MW run-of-the-river hydropower project**
 - Tool: Excel (fully-linked model)
 - Focus: Project finance, economic appraisal, scenario analysis
 
-### 2. [Public Transport Delay Analysis (STATA)](./public-transport-analysis-stata/README.md)
+### 2. Public Transport Expansion Project Delay Analysis (R)
 **Economic evaluation of delays in urban transit using GTFS data**
-- Tool: STATA
-- Focus: Infrastructure delay costing, regression analysis
-
-### 3. [Power Grid Delay Cost Estimation (R)](./power-grid-delay-costs-r/README.md)
-**Modeling economic cost of power grid project delays**
 - Tool: R
-- Focus: Simulation, NPV impact of project overruns
+- Focus: Economic Cost of Delayed Metrolinx Expansion Projects
+
+### 3. Inventor Migration Under Uncertainty - MSc Thesis (STATA)
+**Modeling economic cost of power grid project delays**
+- Tool: STATA
+- Focus: Uncertainty as a Determinant of Inventor Migration, Macro-level Gravity Estimation of 122 Countries
 
 ---
 

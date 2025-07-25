@@ -43,7 +43,3 @@ _Target Roles:_ Economic/Data/Research Analyst, Economic Consultant
 [LinkedIn](https://www.linkedin.com/in/steffinshibu) • [Email](mailto:steffinshibu11@gmail.com)
 
 ---
-
-## License
-
-MIT (or specify as needed)

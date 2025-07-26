@@ -27,7 +27,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 
 ### 3. Inventor Migration Under Uncertainty - MSc Thesis (STATA)
 - [Cleaned Panel Data](Final_PanelData.zip)
-- [STATA Code](Estimation_STATACode.do) 
+- [STATA Code](Thesis_Estimation_STATACode.do) 
 - [Thesis](.pdf)
 - [Presentation](.ppt)
 

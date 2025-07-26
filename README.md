@@ -10,6 +10,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 - [Excel Model](Maji_Hydro_CBA_Analysis.xlsx)
 - [Summary Report](Maji_Hydro_CBA_SummaryReport.pdf)
 - [Presentation](.ppt)
+
 **Cost-Benefit Analysis of a 45 MW run-of-the-river hydropower project**
 - Tool: Excel (fully-linked template)
 - Focus: Project finance, economic appraisal, scenario analysis
@@ -19,6 +20,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 - [R Script](.r) 
 - [Summary Report](.pdf)
 - [Presentation](.ppt)
+
 **Economic evaluation of delays in urban transit using GTFS data**
 - Tool: R
 - Focus: Economic Cost of Delayed Metrolinx Expansion Projects
@@ -28,6 +30,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 - [STATA Code](.do) 
 - [Thesis](.pdf)
 - [Presentation](.ppt)
+
 **Modeling economic cost of power grid project delays**
 - Tool: STATA
 - Focus: Uncertainty as a Determinant of Inventor Migration, Macro-level Gravity Estimation of 122 Countries

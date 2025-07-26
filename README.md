@@ -1,4 +1,4 @@
-# Steffin Shibu – Economics & Data Analysis Portfolio
+# Steffin Shibu – Economics Data Analysis Portfolio
 
 Welcome! This repository showcases select projects across applied economics, data analysis, and public policy, using a range of analytical tools (Excel, R, STATA).
 

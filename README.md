@@ -26,8 +26,8 @@ Welcome! This repository showcases select projects across applied economics, dat
 - Focus: Economic Cost of Delayed Metrolinx Expansion Projects
 
 ### 3. Inventor Migration Under Uncertainty - MSc Thesis (STATA)
-- [Data 1](.dta), [Data 2](.dta)
-- [STATA Code](.do) 
+- [Cleaned Panel Data](Final_PanelData.zip)
+- [STATA Code](Estimation_STATACode.do) 
 - [Thesis](.pdf)
 - [Presentation](.ppt)
 

@@ -6,7 +6,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 
 ## 📁 Projects
 
-### 1. Maji Hydro CBA (Excel)
+### 1. Maji Hydropower Cost-Benefit Analysis (Excel)
 - [Excel Model](Maji_Hydro_CBA_Analysis.xlsx)
 - [Summary Report](Maji_Hydro_CBA_SummaryReport.pdf)
 - [Presentation](.ppt)

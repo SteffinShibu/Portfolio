@@ -18,7 +18,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 ### 2. Inventor Migration Under Uncertainty - MSc Thesis (STATA)
 - [Cleaned Panel Data](Final_PanelData.zip)
 - [STATA Code](Thesis_Estimation_STATACode.do) 
-- [Thesis](Thesis_Draft1.pdf)
+- [Thesis](Thesis_Uncertainty_Innovation_&_Migration_Aug2025.pdf)
 
 **Modeling economic cost of power grid project delays**
 - Tool: STATA

@@ -16,7 +16,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 - Focus: Project finance, economic appraisal, scenario analysis
 
 ### 2. Inventor Migration Under Uncertainty - MSc Thesis (STATA)
-- [Cleaned Panel Data](Final_PanelData.zip)
+- [Cleaned Panel Data](Thesis_Data_StataFile.zip)
 - [STATA Code](Thesis_Estimation_STATACode.do) 
 - [Thesis](Thesis_Uncertainty_Innovation_&_Migration_Aug2025.pdf)
 

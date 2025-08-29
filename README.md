@@ -15,41 +15,20 @@ Welcome! This repository showcases select projects across applied economics, dat
 - Tool: Excel (fully-linked template)
 - Focus: Project finance, economic appraisal, scenario analysis
 
-### 2. Public Transport Expansion Project Delay Analysis (R)
-- [Metrolinx GTFS Data (16 July 2025)](.r)
-- [R Script](.r) 
-- [Summary Report](.pdf)
-- [Presentation](.ppt)
-
-**Economic evaluation of delays in urban transit using GTFS data**
-- Tool: R
-- Focus: Economic Cost of Delayed Metrolinx Expansion Projects
-
-### 3. Inventor Migration Under Uncertainty - MSc Thesis (STATA)
+### 2. Inventor Migration Under Uncertainty - MSc Thesis (STATA)
 - [Cleaned Panel Data](Final_PanelData.zip)
 - [STATA Code](Thesis_Estimation_STATACode.do) 
 - [Thesis](Thesis_Draft1.pdf)
-- [Presentation](.ppt)
 
 **Modeling economic cost of power grid project delays**
 - Tool: STATA
 - Focus: Uncertainty as a Determinant of Inventor Migration, Macro-level Gravity Estimation of 122 Countries
-
-### 4. XYZ (Excel)
--
--
-- [Summary Report]
-- [Presentation]
-**Using Power Query**
-- Tool: Power Query, Excel
-- Focus:
-
 ---
 
 ## 🧰 Skills Demonstrated
 
 - Cost-benefit analysis
-- Econometric analysis (STATA/R)
+- Econometric analysis (STATA)
 - Public sector & infrastructure evaluation
 - Scenario & sensitivity analysis
 

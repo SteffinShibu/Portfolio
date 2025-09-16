@@ -23,6 +23,10 @@ Welcome! This repository showcases select projects across applied economics, dat
 **Modeling economic cost of power grid project delays**
 - Tool: STATA
 - Focus: Uncertainty as a Determinant of Inventor Migration, Macro-level Gravity Estimation of 122 Countries
+
+### 3. Exploring Best Practices for Achieving Net-Zero Emission by Cumbrian SMEs - MiM Company Project (ESG Research)
+- [Research Report](Net-Zero_CumbrianSMEs_ResearchReport.pdf)
+
 ---
 
 ## 🧰 Skills Demonstrated
@@ -31,6 +35,7 @@ Welcome! This repository showcases select projects across applied economics, dat
 - Econometric analysis (STATA)
 - Public sector & infrastructure evaluation
 - Scenario & sensitivity analysis
+- ESG Research and Reporting
 
 ---
 

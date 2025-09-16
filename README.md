@@ -9,7 +9,6 @@ Welcome! This repository showcases select projects across applied economics, dat
 ### 1. Maji Hydropower Cost-Benefit Analysis (Excel)
 - [Excel Model](Maji_Hydro_CBA_Analysis.xlsx)
 - [Summary Report](Maji_Hydro_CBA_SummaryReport.pdf)
-- [Presentation](.ppt)
 
 **Cost-Benefit Analysis of a 45 MW run-of-the-river hydropower project**
 - Tool: Excel (fully-linked template)
@@ -47,6 +46,6 @@ Prepared by **Steffin Shibu**
 MSc Management (Business Economics), Queen’s University  
 _Target Roles:_ Economic/Data/Research Analyst, Economic Consultant
 
-[LinkedIn](https://www.linkedin.com/in/steffinshibu) • [Email](mailto:steffin.shibu@queensu.ca)  • [Email](mailto:steffinshibu11@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/steffinshibu) • [Email](mailto:steffin.shibu@queensu.ca)  • [Personal Email](mailto:steffinshibu11@gmail.com)
 
 ---

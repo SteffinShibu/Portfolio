@@ -27,6 +27,8 @@ Welcome! This repository showcases select projects across applied economics, dat
 ### 3. Exploring Best Practices for Achieving Net-Zero Emission by Cumbrian SMEs - MiM Company Project (ESG Research)
 - [Research Report](Net-Zero_CumbrianSMEs_ResearchReport.pdf)
 
+**A report reviexing existing certification and offsetting frameworks**
+- Focus: Finding best alternatives for achieving the 2037 Net-Zero Emission target, aimed by the Cumbrian SMEs
 ---
 
 ## 🧰 Skills Demonstrated
@@ -45,6 +47,6 @@ Prepared by **Steffin Shibu**
 MSc Management (Business Economics), Queen’s University  
 _Target Roles:_ Economic/Data/Research Analyst, Economic Consultant
 
-[LinkedIn](https://www.linkedin.com/in/steffinshibu) • [Email](mailto:steffinshibu11@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/steffinshibu) • [Email](mailto:steffin.shibu@queensu.ca)  • [Email](mailto:steffinshibu11@gmail.com)
 
 ---
